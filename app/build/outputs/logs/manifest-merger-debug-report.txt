@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\f32492aa179068d379602fbbe95f82c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\f0b324c4c90b0d8fead87d5e0ec6a7ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\896e203f92a77cb91253a9f349d3c4f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3b3835497df01405a0be3c0eb747aea5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\67dbb957432ac663e73785194722b123\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4e4092efe96bf512e58c0523ff055bf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\edabb31ed1277ad875b08a97e02120e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\b6ded25e2e92def6cb8474fb5a4d894b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\e06f75fff534566e32c6d6a9e26cfe07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3564b260d25a0291b0e3c5b8a79978c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\514ab1d60d9c85e1f5ae5657c7d026e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3a2c0405d698d3e11f39d0690f2f68bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\643fcfdfe7750d09c8c2b31b53b05b48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\99a3ab0686ee77c8bf9bafa2d8a2b7bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3e9a26678c0df838a5ba9732626d2782\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4a0eddff10ff3755a2572aaaa46dc087\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\00c31f24c0d6048c15522a4405713d95\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\711957e220512acd2c0219bbfec21fc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\e097d2575bf03407f2698136212e63ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\69f1ff303f1397b06937fb35361f2944\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\c9d51ccca9be1cdbd5cb218d2bccd62f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\13a27b8f9728fa996c5f05141ec38b3d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\bef9e353bde74acbc8668ec4e60e7959\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\5a3476acbba3895d6c27068958379415\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4dbaa534170b72a861999f91379918b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\a8c0d1249d3721c7ef66ffe272791dc6\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3e9a26678c0df838a5ba9732626d2782\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3e9a26678c0df838a5ba9732626d2782\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4a0eddff10ff3755a2572aaaa46dc087\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4a0eddff10ff3755a2572aaaa46dc087\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3e9a26678c0df838a5ba9732626d2782\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:9:9-40
+activity#edu.msu.cse476.steampunked.MainActivity
+ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\f32492aa179068d379602fbbe95f82c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\f32492aa179068d379602fbbe95f82c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\f0b324c4c90b0d8fead87d5e0ec6a7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\f0b324c4c90b0d8fead87d5e0ec6a7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\896e203f92a77cb91253a9f349d3c4f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\896e203f92a77cb91253a9f349d3c4f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3b3835497df01405a0be3c0eb747aea5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3b3835497df01405a0be3c0eb747aea5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\67dbb957432ac663e73785194722b123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\67dbb957432ac663e73785194722b123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4e4092efe96bf512e58c0523ff055bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4e4092efe96bf512e58c0523ff055bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\edabb31ed1277ad875b08a97e02120e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\edabb31ed1277ad875b08a97e02120e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\b6ded25e2e92def6cb8474fb5a4d894b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\b6ded25e2e92def6cb8474fb5a4d894b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\e06f75fff534566e32c6d6a9e26cfe07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\e06f75fff534566e32c6d6a9e26cfe07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3564b260d25a0291b0e3c5b8a79978c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3564b260d25a0291b0e3c5b8a79978c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\514ab1d60d9c85e1f5ae5657c7d026e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\514ab1d60d9c85e1f5ae5657c7d026e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3a2c0405d698d3e11f39d0690f2f68bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3a2c0405d698d3e11f39d0690f2f68bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\643fcfdfe7750d09c8c2b31b53b05b48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\643fcfdfe7750d09c8c2b31b53b05b48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\99a3ab0686ee77c8bf9bafa2d8a2b7bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\99a3ab0686ee77c8bf9bafa2d8a2b7bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3e9a26678c0df838a5ba9732626d2782\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\3e9a26678c0df838a5ba9732626d2782\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4a0eddff10ff3755a2572aaaa46dc087\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4a0eddff10ff3755a2572aaaa46dc087\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\00c31f24c0d6048c15522a4405713d95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\00c31f24c0d6048c15522a4405713d95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\711957e220512acd2c0219bbfec21fc1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\711957e220512acd2c0219bbfec21fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\e097d2575bf03407f2698136212e63ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\e097d2575bf03407f2698136212e63ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\69f1ff303f1397b06937fb35361f2944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\69f1ff303f1397b06937fb35361f2944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\c9d51ccca9be1cdbd5cb218d2bccd62f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\c9d51ccca9be1cdbd5cb218d2bccd62f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\13a27b8f9728fa996c5f05141ec38b3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\13a27b8f9728fa996c5f05141ec38b3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\bef9e353bde74acbc8668ec4e60e7959\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\bef9e353bde74acbc8668ec4e60e7959\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\5a3476acbba3895d6c27068958379415\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\5a3476acbba3895d6c27068958379415\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4dbaa534170b72a861999f91379918b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\4dbaa534170b72a861999f91379918b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\a8c0d1249d3721c7ef66ffe272791dc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\amart\.gradle\caches\transforms-2\files-2.1\a8c0d1249d3721c7ef66ffe272791dc6\AndroidManifest.xml:20:5-44
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+		ADDED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Classwork\CSE 476\Steampunked\app\src\main\AndroidManifest.xml
