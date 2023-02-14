@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cbowen\Documents\Classes\CSE476\AndroidStudio2\Steampunked\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\cbowen\Documents\Classes\CSE476\AndroidStudio2\Steampunked\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-72b6a3c7096b6ef717f326a1ddbda593f2865b3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\cbowen\Documents\Classes\CSE476\AndroidStudio2\Steampunked\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\cbowen\Documents\Classes\CSE476\AndroidStudio2\Steampunked\app\build\intermediates\pre-dexed\debug\classes-3035249a0499099b6b4a135e861e857b4252e540.jar" />
+    </item>
+    <item
+        jar="C:\Users\cbowen\Documents\Classes\CSE476\AndroidStudio2\Steampunked\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\cbowen\Documents\Classes\CSE476\AndroidStudio2\Steampunked\app\build\intermediates\pre-dexed\debug\classes-f90f7b2b4a98881f4fdcce429cd065556f5e602e.jar" />
+    </item>
+    <item
+        jar="C:\Users\cbowen\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\cbowen\Documents\Classes\CSE476\AndroidStudio2\Steampunked\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-2f514e348acec27b4a323317d6a23efc0cac7c5d.jar" />
+    </item>
+
+</items>
